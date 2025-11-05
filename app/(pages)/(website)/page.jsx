@@ -4,7 +4,7 @@ import React from 'react'
 const Page = () => {
   return (
     <div className="block">
-      <FlipbookViewer pdfUrl='/demo.pdf' />
+      <FlipbookViewer pdfUrl='/Pameti_VJH_B5_2025_kniha_nahled_P.pdf' />
     </div>
   )
 }
